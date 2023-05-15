@@ -1,0 +1,3 @@
+/media/UNITN/Appunti3-DII/Tecniche_programmazione_avanzata/Matrici2/cmake-build-debug/CMakeFiles/Matrici2.dir
+/media/UNITN/Appunti3-DII/Tecniche_programmazione_avanzata/Matrici2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/UNITN/Appunti3-DII/Tecniche_programmazione_avanzata/Matrici2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
